@@ -47,4 +47,4 @@ To run UfoChat, follow these steps:
 Contributions are welcome! If you'd like to improve UfoChat or add new features, please create a pull request with your changes.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License.
